@@ -18,7 +18,7 @@
     bottom: 82px;
 }
 .chat-screen .chat-header {
-    background-image: linear-gradient(to right, #673ab7, #813bcb, #9e38de, #bc32ef, #dc22ff);
+    background-image: linear-gradient(to right, #852451, #7F224E, #641439, #4F132F);
     border-radius: 15px 15px 0 0;
     padding: 15px;
     display: block;
@@ -77,12 +77,13 @@
 .chat-screen .chat-body {
     padding: 25px;
     display: inline-block;
+    width: 100%;
     min-height: 382px;
     max-height: 382px;
     background: #fbfbfb;
 }
 .chat-screen .chat-body .chat-start {
-    border: 1px solid #f8d4ff;
+    border: 1px solid #7F224E;
     width: 150px;
     border-radius: 50px;
     padding: 6px 10px;
